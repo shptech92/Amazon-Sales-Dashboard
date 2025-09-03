@@ -65,7 +65,8 @@ The interactive Power BI dashboard provides insights such as:
 
 ### Central Region Dashboard
 
-<img width="1443" height="807" alt="Central" src="https://github.com/user-attachments/assets/f1b37f9a-0edc-4ccf-8c56-a827560eea03" />
+<img width="1440" height="804" alt="Central" src="https://github.com/user-attachments/assets/f648f88e-b9d0-4203-ae9d-b06697fa4eaf" />
+
 
 ---
 
