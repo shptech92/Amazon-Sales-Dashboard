@@ -54,7 +54,7 @@ The interactive Power BI dashboard provides insights such as:
 ## 🛠️ Tools & Technologies
 - **Power BI** (Data Visualization & Dashboarding)  
 - **Excel / CSV** (Data Cleaning & Pre-processing)  
-- **DAX** (Calculated Measures & KPIs)  
+ 
 
 ---
 
